@@ -1,0 +1,670 @@
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="de-DE" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="de-DE" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="de-DE" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="de-DE" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+  <meta charset="UTF-8" />
+
+      <title>Mochi - Foodwiki - Lieferando.de</title>
+  
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,900,900i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i" rel="stylesheet">
+
+  <link rel="alternate" href="https://www.lieferando.de/foodwiki/japanische-kueche/mochi/" hreflang="de-de" />
+  <link rel="alternate" href="https://www.lieferservice.at/foodwiki/japanische-kueche/mochi/" hreflang="de-at" />
+  <link rel="alternate" href="https://www.takeaway.com/ch/foodwiki/japanische-kueche/mochi/" hreflang="de-ch" />
+
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.lieferando.de/foodwiki/assets/images/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="https://www.lieferando.de/foodwiki/assets/images/favicons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="https://www.lieferando.de/foodwiki/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="https://www.lieferando.de/foodwiki/assets/images/favicons/manifest.json">
+  <link rel="mask-icon" href="https://www.lieferando.de/foodwiki/assets/images/favicons/safari-pinned-tab.svg" color="#FF8000">
+	
+  <script src="//tags.tiqcdn.com/utag/takeaway/foodwiki-de/prod/utag.sync.js"></script>
+<script type="text/javascript">
+  (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/takeaway/foodwiki-de/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+  })();
+
+  // tealium
+  window.dispatchEvent(new Event("tmsControllerLoaded"));
+  window.addEventListener("tmsControllerLoaded", function() {
+    
+    tmsController.data.pageData = {
+      pageGroup : "foodwiki",
+      language: "DE",
+    };
+    tmsController.trackPageview();
+  });
+</script>
+<meta name="google-site-verification" content="UoOzq3MXpEWb9sE9sU3HsvX8PJ4sPGeReqp5MUX1Ze4" />
+<meta name="msvalidate.01" content="466FCA0AEB3F31A36065ED8A0D558D02" />
+<!-- Cookie Consent -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "rgba(0,0,0,.65)"
+    },
+    "button": {
+      "background": "#50aadd",
+      "text": "#ffffff"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "Unsere Website benutzt Cookies um Dir mehr Benutzerfreundlichkeit bieten zu können sowie um Dir ausschließlich relevante Werbung anzuzeigen. Wenn Du diese Website benutzt, zeigst Du Dich automatisch mit der Nutzung von unseren Cookies einverstanden.",
+    "dismiss": "Schließen",
+    "link": "Klicke hier für weitere Informationen.",
+    "href": "https://www.lieferando.de/cookiestatement"
+  }
+})});
+</script>
+  
+<!-- This site is optimized with the Yoast SEO plugin v6.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Wenn in Japan das neue Jahr eingeläutet wird, kommt Mochi​ auf den Tisch. Der Klebreis-Kuchen wird mit Pasten gefüllt und schmeckt sowohl süß als auch herzhaft."/>
+<link rel="canonical" href="https://www.lieferando.de/foodwiki/japanische-kueche/mochi/" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Mochi - Foodwiki - Lieferando.de" />
+<meta property="og:description" content="Wenn in Japan das neue Jahr eingeläutet wird, kommt Mochi​ auf den Tisch. Der Klebreis-Kuchen wird mit Pasten gefüllt und schmeckt sowohl süß als auch herzhaft." />
+<meta property="og:url" content="https://www.lieferando.de/foodwiki/japanische-kueche/mochi/" />
+<meta property="og:site_name" content="Lieferando.de" />
+<meta property="og:image" content="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/06/mochi-5.jpg" />
+<meta property="og:image:secure_url" content="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/06/mochi-5.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Wenn in Japan das neue Jahr eingeläutet wird, kommt Mochi​ auf den Tisch. Der Klebreis-Kuchen wird mit Pasten gefüllt und schmeckt sowohl süß als auch herzhaft." />
+<meta name="twitter:title" content="Mochi - Foodwiki - Lieferando.de" />
+<meta name="twitter:image" content="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/06/mochi-5.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='stylesheet' id='stylesheet-css'  href='https://www.lieferando.de/foodwiki/assets/stylesheets/style.min.d0f3dd72.css' type='text/css' media='all' />
+      <script>
+      if (document.location.protocol != "https:") {
+          document.location = document.URL.replace(/^http:/i, "https:");
+      }
+      </script>
+      <script type='text/javascript' src='https://www.lieferando.de/foodwiki/assets/javascripts/scripts-vendor.min.c08bb07d.js'></script>
+
+<link rel='shortlink' href='https://www.lieferando.de/foodwiki/?p=212' />
+
+	<!-- Schema.org markup -->
+      <script type='application/ld+json'>
+ {
+"@context": "http://schema.org",
+"@type": "BreadcrumbList",
+    "itemListElement": [ 
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+        "@id": "http://www.lieferando.de",
+        "name": "Lieferando.de"
+        }
+        },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+        "@id": "https://www.lieferando.de/foodwiki",
+         "name": "Foodwiki"
+        }
+        },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+        "@id": "https://www.lieferando.de/foodwiki/japanische-kueche/",
+         "name": "Japanische Küche"
+        }
+        }
+    ]
+ }
+ </script>
+   
+  
+           </head>
+
+  <body data-rsssl=1 class="dish-template-default single single-dish postid-212 lieferando-de" data-template="base.twig">
+    
+    <div class="overlay overlay--menu">
+  <div class="overlay__inner">
+    <div class="overlay__bar">
+      Gehe direkt zu:
+      <div id="js-close-menu" class="symbol-close">Close</div>
+    </div>
+
+    <h3 class="overlay__title overlay__title--open">Küchen</h3>
+    <ul class="overlay__list">
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/chinesische-kueche/">Chinesische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/deutsche-kueche/">Deutsche Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/griechische-kueche/">Griechische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/indische-kueche/">Indische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/italienische-kueche/">Italienische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/japanische-kueche/">Japanische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/mexikanische-kueche/">Mexikanische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/spanische-kueche/">Spanische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/thailaendische-kueche/">Thailändische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/tuerkische-kueche/">Türkische Küche</a></li>
+              <li class="overlay__list-item"><a href="https://www.lieferando.de/foodwiki/vietnamesische-kueche/">Vietnamesische Küche</a></li>
+          </ul>
+    <h3 class="overlay__title overlay__title--open">Gerichtart</h3>
+    <ul class="overlay__list">
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/beilage/">Beilage</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/dessert/">Dessert</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/fruehstueck/">Frühstück</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/getraenk/">Getränk</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/hauptgericht/">Hauptgericht</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/kuchen/">Kuchen</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/salat/">Salat</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/snack/">Snack</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/suppe/">Suppe</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/vorspeise/">Vorspeise</a></li>
+              <li class="overlay__list-item"><a href="/foodwiki/dish_type/zubereitungsart/">Zubereitungsart</a></li>
+          </ul>
+  </div>
+</div>
+
+    <header class="header">
+      <div class="header__logo logo">
+        <a class="logo__anchor" href="https://www.lieferando.de/foodwiki/">
+          <img class="logo__image" alt="https://www.lieferando.de/foodwiki" src="https://www.lieferando.de/foodwiki/uploads/2017/10/logo-lieferando-de.png">
+        </a>
+      </div>
+      <div class="js-menu-btn icon-ligature header__menu-icon">Menu</div>
+      <div class="js-search-btn icon-ligature header__search-icon">Suchen</div>
+      <form role="search" id="js-searchform" method="get" class="overlay overlay--search searchform" action="https://www.lieferando.de/foodwiki">
+    <div class="overlay__inner">
+      <div class="overlay__bar">
+        Suchen
+        <div id="js-close-searchform" class="symbol-close">Close</div>
+      </div>
+
+      <h3 class="overlay__title">Lerne weitere Gerichte und Küchen dieser Welt kennen</h3>
+      <input type="search" value="" name="s" placeholder="Suchen" class="searchform__input">
+      <input type="submit" value="Suchen" class="btn searchform__submit">
+    </div>
+</form>
+    </header>
+
+    <main id="main" class="main">
+      <div id="content" class="article--dish content__wrapper">
+                            <article class="single single--dish dish-detail">
+    <div class="photo-area photo-area--half" id="photo-container">
+      <div id="photo-fade--0" title="mochi" class="photo-area__photo photo-area__photo--active photo-area__photo--hero" >
+        <h1 class="photo-area__hero-title">Mochi</h1><img class="hero-photo" src="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/06/mochi-5-1080x960.jpg" title="mochi" alt="mochi" />
+      </div>
+
+                                      <div
+            class="photo-area__photo"
+            id="photo-fade--2"><img class="hero-photo" src="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/06/mochi-6-1080x961.jpg" title="mochi" alt="mochi" />
+          </div>
+                            
+      <div class="share-buttons
+  
+  share-buttons--header">
+  <span class="share-buttons__label share-buttons__label--light">Jetzt teilen</span>
+  <ul class="social-media-list social-media-list--horizontal">
+    <li class="social-media-list__item">
+      <div class="social-media-list__icon-container">
+        <i id="share_facebook" data-url="https://www.lieferando.de/foodwiki/japanische-kueche/mochi/" class="social-media-list__icon  social-media-list__icon--light icon-facebook share_facebook"></i>
+      </div>
+    </li>
+    <li class="social-media-list__item">
+      <div class="social-media-list__icon-container">
+        <i id="share_twitter" data-tweet="mochi - https://www.lieferando.de/foodwiki/japanische-kueche/mochi/" class="social-media-list__icon social-media-list__icon--light icon-twitter share_twitter"></i>
+      </div>
+    </li>
+  </ul>
+</div>
+    </div>
+
+    <div class="content-area content-area__half">
+      <div>
+        <div class="menu-bar">
+  <div class="menu-bar__breadcrumb-container">
+    <ul class="breadcrumb ">
+  <li class="breadcrumb__item">
+    <a class="breadcrumb__anchor" href="http://www.lieferando.de">Lieferando.de</a>
+  </li>
+  <li class="breadcrumb__item">
+    <a class="breadcrumb__anchor" href="https://www.lieferando.de/foodwiki/">Foodwiki</a>
+  </li>
+      <li class="breadcrumb__item">
+      <a class="breadcrumb__anchor" href="https://www.lieferando.de/foodwiki/japanische-kueche/">Japanische Küche</a>
+    </li>
+    <li class="breadcrumb__item">
+      <span class="breadcrumb__current">Mochi </span>
+    </li>
+  </ul>
+  </div>
+  <div class="menu-bar__icon-container">
+    <div class="js-search-btn icon-ligature menu-bar__search-icon">Suchen</div>
+    <div class="js-menu-btn icon-ligature menu-bar__menu-icon">Menu</div>
+  </div>
+</div>
+      </div>
+      <header class="dish-detail__introduction-container">
+        <h1 class="dish-detail__title">Mochi</h1>
+        <p class="dish-detail__teaser">
+          <span style="font-weight: 400">Wenn in Japan das neue Jahr eingeläutet wird, kommt Mochi​ auf den Tisch. Der Klebreis-Kuchen wird mit Pasten gefüllt und kann sowohl süß als auch herzhaft schmecken. Die kompakten kleinen Küchlein schmecken hierzulande aber zu jeder Jahreszeit – als Dessert nach einem leckeren und üppigen Sushi-Mahl.</span>
+        </p>
+
+        
+
+        <ul class="dish-detail__anchor-list">
+          <li class="dish-detail__anchor-list-item">
+            <a class="dish-detail__anchor" href="#was-ist-mochi?">Was ist Mochi?</a>
+          </li>
+                      <li class="dish-detail__anchor-list-item">
+              <a class="dish-detail__anchor" href="#mochi-gibt-es-in-vielen-varianten">Mochi gibt es in vielen Varianten</a>
+            </li>
+                      <li class="dish-detail__anchor-list-item">
+              <a class="dish-detail__anchor" href="#mochi-sollte-mit-ein-wenig-vorsicht-genossen-werden">Mochi sollte mit ein wenig Vorsicht genossen werden</a>
+            </li>
+                      <li class="dish-detail__anchor-list-item">
+              <a class="dish-detail__anchor" href="#probiere-auch">Probiere auch</a>
+            </li>
+                  </ul>
+
+        <ul class="dish-cheatsheet">
+          <li class="dish-cheatsheet__item">
+            <div class="dish-cheatsheet__content-container">
+              <span class="dish-cheatsheet__label">Küchenrichtung</span>
+              <a class="dish-cheatsheet__anchor" href="https://www.lieferando.de/foodwiki/japanische-kueche/">Japanische Küche</a>
+            </div>
+          </li>
+
+                                              <li class="dish-cheatsheet__item">
+                <div class="dish-cheatsheet__content-container">
+                  <span class="dish-cheatsheet__label">Allergene</span>
+                                      <a class="dish-cheatsheet__anchor " href=https://www.lieferando.de/foodwiki/allergen/glutenhaltiges-getreide/>
+                                              Glutenhaltiges Getreide
+                                          </a>
+                                      <a class="dish-cheatsheet__anchor " href=https://www.lieferando.de/foodwiki/allergen/milch/>
+                                              Milch
+                                          </a>
+                                      <a class="dish-cheatsheet__anchor " href=https://www.lieferando.de/foodwiki/allergen/schalenfruechte/>
+                                              Schalenfrüchte
+                                          </a>
+                                      <a class="dish-cheatsheet__anchor " href=https://www.lieferando.de/foodwiki/allergen/sesamsamen/>
+                                              Sesamsamen
+                                          </a>
+                                  </div>
+              </li>
+                                                <li class="dish-cheatsheet__item">
+                <div class="dish-cheatsheet__content-container">
+                  <span class="dish-cheatsheet__label">Basis</span>
+                                      <a class="dish-cheatsheet__anchor " href=https://www.lieferando.de/foodwiki/basis/reis/>
+                                              Reis
+                                          </a>
+                                  </div>
+              </li>
+                                                <li class="dish-cheatsheet__item">
+                <div class="dish-cheatsheet__content-container">
+                  <span class="dish-cheatsheet__label">Gerichtart</span>
+                                      <a class="dish-cheatsheet__anchor " href=https://www.lieferando.de/foodwiki/dish_type/dessert/>
+                                              Dessert
+                                          </a>
+                                  </div>
+              </li>
+                                                <li class="dish-cheatsheet__item">
+                <div class="dish-cheatsheet__content-container">
+                  <span class="dish-cheatsheet__label">Für wen</span>
+                                      <a class="dish-cheatsheet__anchor " href=https://www.lieferando.de/foodwiki/for_who/liebhaber-von-suessspeisen/>
+                                              Liebhaber von Süßspeisen
+                                          </a>
+                                  </div>
+              </li>
+                                                    </ul>
+      </header>
+
+      <div class="content-area__section content-area__section--dish content-area__section--first" id="was-ist-mochi?" data-photo-fade-point data-photo-fade-index="0">
+        <h2>Was ist Mochi?</h2>
+        <p><span style="font-weight: 400;">In Japan gibt es kaum ein Gericht, das nicht eine lange Tradition und bestimmte Genussregeln hat. Das ist auch bei Mochi nicht anders. Die charakteristischen kleinen Küchlein aus gedämpftem und zu einer glatten Masse geschlagenem Mochireis gehören zu jedem Neujahresfest dazu.</span></p>
+<p><span style="font-weight: 400;">Mit dem Aufstieg der <a href="/foodwiki/japanische-kueche/">japanischen Küche</a> in der westlichen Welt ist auch Mochi hierzulande angekommen und wird das ganze Jahr über genossen. Zwar gibt es auch herzhafte Varianten, doch ist vor allem das Küchlein mit einer süßen Bohnenpasten-Füllung als Dessert beliebt.</span></p>
+<p><b>Die Herstellung war früher ein Kraftakt</b></p>
+<p><span style="font-weight: 400;">Bis Mochi seine glatte, typische Kugelform erhielt, mussten japanische Bäcker früher viel Muskelkraft einsetzen. Grundlage ist ein spezieller Klebreis, der genug Stärke mitbringt, um sich zu einer glatten Masse verarbeiten zu lassen.</span></p>
+<p><span style="font-weight: 400;">Traditionell wurde der Reis ( jap. Mochigome) früher erst gedämpft und dann im Holzbottich mit Mörsern von Hand geschlagen. Nach und nach entstand ein geschmeidiger Klumpen, der sich zu einer Kugel formen ließ. Weil dieser Vorgang erstens lange dauerte und zweitens enorm viel Kraft verlangte, übernahmen Maschinen langsam die Verarbeitung, um den großen Bedarf an Mochi, vor allem in der Neujahressaison, zu decken.</span></p>
+
+      </div>
+
+              <div class="content-area__section content-area__section--dish" id="mochi-gibt-es-in-vielen-varianten" >
+          <h2>Mochi gibt es in vielen Varianten</h2>
+          <p><span style="font-weight: 400;">In der westlichen Welt kennen Fans Mochi vor allem in einer grünen oder weißen Variante, die mit süßem Bohnenmus (Anko) oder anderen Füllungen (zum Beispiel Schokolade) als Nachtisch gegessen wird. Die grüne Färbung kommt vom Teepulver Matcha. Das Küchlein kann auch in Zucker gewälzt oder mit Kokosflocken garniert werden – der Fantasie des Chefs sind kaum Grenzen gesetzt. Mochi an sich besitzt nur einen dezenten Eigengeschmack, was für westliche Gaumen eine neue Erfahrung in Sachen Nachspeise sein kann.</span></p>
+<p><span style="font-weight: 400;">Kommen Mochi zu Neujahr in Japan auf den Tisch, werden sie oft auch getrocknet gegessen, vorher noch geröstet und mit Sojasoße als herzhaftes Gericht serviert. Mochi ist außerdem die traditionelle Beilage zu Zōni, einer Neujahrssuppe.</span></p>
+
+        </div>
+              <div class="content-area__section content-area__section--dish" id="mochi-sollte-mit-ein-wenig-vorsicht-genossen-werden" data-photo-fade-point data-photo-fade-index=2>
+          <h2>Mochi sollte mit ein wenig Vorsicht genossen werden</h2>
+          <p><span style="font-weight: 400;">Das Gewicht einer Portion Mochi weist schon darauf hin, dass der Kuchen eine wirklich kompakte Angelegenheit ist. Die bissfeste Konsistenz unterstreicht diesen Eindruck. In Japan bedeutet es Glück, wenn zum neuen Jahr so viele Mochi wie nur möglich verzehrt werden. Das allerdings ist nicht ganz ungefährlich.</span></p>
+<p><span style="font-weight: 400;">Die japanischen Behörden führen eine Mochi-Statistik, die aufzeigt, wie viele Menschen jährlich an Mochi ersticken – weil sie es mit der Neujahrstradition übertrieben haben. Darum sollte man die Küchlein immer in kleinen Bissen essen, diese gut kauen und mit reichlich Flüssigkeit herunterspülen.</span></p>
+<p><span style="font-weight: 400;">Hält man sich an diese Vorgaben, ist es vollkommen ungefährlich, die Kuchen zu essen. Allerdings sind sie auch kalorientechnisch keine Leichtgewichte, selbst wenn der Hauptbestandteil „nur“ Reis ist. Gerade die Füllungen und zusätzlichen Zutaten sorgen dafür, dass ein Mochi in der Energiebilanz erheblich zu Buche schlägt. Aber meist reicht bereits ein Küchlein, um wirklich pappsatt und rundum zufrieden zu sein.</span></p>
+
+        </div>
+              <div class="content-area__section content-area__section--dish" id="probiere-auch" >
+          <h2>Probiere auch</h2>
+          <p>Wenn dir Mochi schmeckt, bist du mit einem vollständigen <a href="/foodwiki/japanische-kueche/">japanischen Menü</a>, etwa mit Miso Suppe, <a href="/foodwiki/japanische-kueche/edamame/">Edamame</a> und Sake, bestimmt im siebten Genusshimmel.</p>
+
+        </div>
+            <div class="content-area__section content-area__section--dish">
+        <div class="share-buttons
+  
+  share-buttons--inline">
+  <span class="share-buttons__label ">Jetzt teilen</span>
+  <ul class="social-media-list social-media-list--horizontal">
+    <li class="social-media-list__item">
+      <div class="social-media-list__icon-container">
+        <i id="share_facebook" data-url="https://www.lieferando.de/foodwiki/japanische-kueche/mochi/" class="social-media-list__icon   icon-facebook share_facebook"></i>
+      </div>
+    </li>
+    <li class="social-media-list__item">
+      <div class="social-media-list__icon-container">
+        <i id="share_twitter" data-tweet="mochi - https://www.lieferando.de/foodwiki/japanische-kueche/mochi/" class="social-media-list__icon  icon-twitter share_twitter"></i>
+      </div>
+    </li>
+  </ul>
+</div>
+      </div>
+
+    </div>
+  </div>
+
+      <div class="content-area__full">
+      <h2 class="talign-c">Entdecke Gerichte</h2>
+      <ul class="vertical-tease-list vertical-tease-list--col-4">
+                  <li class="vertical-tease-list__item">
+  <a href="https://www.lieferando.de/foodwiki/spanische-kueche/arroz-con-leche/" class="vertical-tease-list__anchor">
+    <div class="vertical-tease-list__hero">
+      <img src="https://www.lieferando.de/foodwiki/uploads/sites/8/2018/01/arroz-con-leche-2-468x273.jpg" alt="arroz con leche" class="vertical-tease-list__thumbnail" />
+              <img src="https://www.lieferando.de/foodwiki/uploads/sites/8/2018/01/spanische-kuche-80x54.jpg" alt="" class="vertical-tease-list__trump " />
+            <h3 class="vertical-tease-list__title">Arroz con leche</h3>
+    </div>
+    <div class="vertical-tease-list__bar">
+              <p class="vertical-tease-list__cta">
+          Entdecke dieses Gericht
+        </p>
+                    <i class="icon-arrow-right vertical-tease-list__arrow">
+        </i>
+          </div>
+  </a>
+</li>
+                  <li class="vertical-tease-list__item">
+  <a href="https://www.lieferando.de/foodwiki/italienische-kueche/cannoli/" class="vertical-tease-list__anchor">
+    <div class="vertical-tease-list__hero">
+      <img src="https://www.lieferando.de/foodwiki/uploads/sites/8/2018/01/canolli-2-468x273.jpg" alt="Canolli" class="vertical-tease-list__thumbnail" />
+              <img src="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/11/italienische-kuche-2-80x54.png" alt="" class="vertical-tease-list__trump " />
+            <h3 class="vertical-tease-list__title">Cannoli</h3>
+    </div>
+    <div class="vertical-tease-list__bar">
+              <p class="vertical-tease-list__cta">
+          Entdecke dieses Gericht
+        </p>
+                    <i class="icon-arrow-right vertical-tease-list__arrow">
+        </i>
+          </div>
+  </a>
+</li>
+                  <li class="vertical-tease-list__item">
+  <a href="https://www.lieferando.de/foodwiki/japanische-kueche/dorayaki/" class="vertical-tease-list__anchor">
+    <div class="vertical-tease-list__hero">
+      <img src="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/05/dorayaki-5-468x273.jpg" alt="Dorayaki" class="vertical-tease-list__thumbnail" />
+              <img src="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/05/japanische-kuche-4-80x54.png" alt="" class="vertical-tease-list__trump " />
+            <h3 class="vertical-tease-list__title">Dorayaki</h3>
+    </div>
+    <div class="vertical-tease-list__bar">
+              <p class="vertical-tease-list__cta">
+          Entdecke dieses Gericht
+        </p>
+                    <i class="icon-arrow-right vertical-tease-list__arrow">
+        </i>
+          </div>
+  </a>
+</li>
+                  <li class="vertical-tease-list__item">
+  <a href="https://www.lieferando.de/foodwiki/indische-kueche/kheer/" class="vertical-tease-list__anchor">
+    <div class="vertical-tease-list__hero">
+      <img src="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/05/kheer-5-468x273.jpg" alt="kheer" class="vertical-tease-list__thumbnail" />
+              <img src="https://www.lieferando.de/foodwiki/uploads/sites/8/2017/05/indische-kuche-2-80x54.png" alt="" class="vertical-tease-list__trump " />
+            <h3 class="vertical-tease-list__title">Kheer</h3>
+    </div>
+    <div class="vertical-tease-list__bar">
+              <p class="vertical-tease-list__cta">
+          Entdecke dieses Gericht
+        </p>
+                    <i class="icon-arrow-right vertical-tease-list__arrow">
+        </i>
+          </div>
+  </a>
+</li>
+              </ul>
+    </div>
+          </article>
+              </div>
+    </main>
+
+      <div class="form_container">
+    <h2>Wer liefert Mochi in Deiner Nähe?</h2>
+    <form onsubmit="sendTo(this.form);return false;">
+  <script language="JavaScript">
+function sendTo (form) { 
+	if(window.location.href.indexOf("vietnamesische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=261");
+	return false;
+	} 
+	else if(window.location.href.indexOf("thailaendische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=61");
+	return false;
+	} 
+	else if(window.location.href.indexOf("chinesische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=41");
+	return false;
+	} 
+	else if(window.location.href.indexOf("indische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=71");
+	return false;
+	} 
+	else if(window.location.href.indexOf("japanische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=51,551");
+	return false;
+    } 
+    else if(window.location.href.indexOf("spanische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=11");
+    return false;
+    } 
+    else if(window.location.href.indexOf("griechische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=501,1356");
+    return false;
+    } 
+    else if(window.location.href.indexOf("tuerkische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=511,821,291");
+    return false;
+    } 
+    else if(window.location.href.indexOf("italienische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=271,21,1614");
+    return false;
+    } 
+    else if(window.location.href.indexOf("mexikanische") > -1) {
+    window.open ("https://www.lieferando.de/" + form.postcode.value + "#Cuisine=221");
+    return false;
+    } 
+	else {
+    window.open ("https://www.lieferando.de/" + form.postcode.value);
+	return false;
+}
+}
+$(window).load(function(){
+$("input#inputfield").on({
+  keydown: function(e) {
+    if (e.which === 32)
+      return false;
+  },
+  change: function() {
+    this.value = this.value.replace(/\s/g, "");
+  }
+});
+});
+	</script>
+<script>
+window.addEventListener('load', (event) => {
+  var dishName = document.querySelector(".dish-detail__title").innerHTML;
+  document.querySelector(".form_container h2").innerHTML = "Wer liefert " + dishName + " in Deiner Nähe?";
+});
+</script>
+  <div id="input_container">
+  <span id="input_title">Postleitzahl eingeben</span>
+    <input type="text" name="postcode" id="inputfield" placeholder="z.B. 10115" maxlength="15" /></div>
+  <input type="submit" value="suchen" onclick="sendTo(this.form);return false;" id="submitbutton">
+  </form>
+    </div>
+<footer class="footer">
+  <div class="footer__inner">
+        <div class="footer__half">
+      <div class="footer__description-container">
+        <h4 class="footer__title">Foodwiki</h4>
+        <div class="footer__description">
+          <p>Wolltest Du schon immer wissen, ob ein unbekanntes Gericht im Menü es wert ist, bestellt zu werden? In diesem Foodwiki findest Du alle Informationen über die vielfältigsten Gerichte aus der ganzen Welt. So kannst Du dein kulinarisches Abenteuer in aller Ruhe starten!</p>
+<p><b>Kontakt</b><br />
+Hast Du Feedback, das Du gerne mit uns teilen möchtest? Melde Dich bei uns: foodwiki@lieferando.de</p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="footer__half">
+      <div class="footer__col">
+        <h3 class="footer__title">Küchen</h3>
+        <ul class="footer__anchor-list">
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/chinesische-kueche/">Chinesische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/deutsche-kueche/">Deutsche Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/griechische-kueche/">Griechische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/indische-kueche/">Indische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/italienische-kueche/">Italienische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/japanische-kueche/">Japanische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/mexikanische-kueche/">Mexikanische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/spanische-kueche/">Spanische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/thailaendische-kueche/">Thailändische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/tuerkische-kueche/">Türkische Küche</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/foodwiki/vietnamesische-kueche/">Vietnamesische Küche</a>
+            </li>
+                  </ul>
+      </div>
+      <div class="footer__col">
+        <h3 class="footer__title">Über uns</h3>
+        <ul class="footer__anchor-list">
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/agb">AGB</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/privacy-statement">Datenschutzerklärung</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/impressum">Impressum</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferando.de/cookiestatement">Verwendung von Cookies</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.thuisbezorgd.nl/foodwiki/">Foodwiki NL</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.pyszne.pl/foodwiki/">Foodwiki PL</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.lieferservice.at/foodwiki/">Foodwiki AT</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.takeaway.com/ch/foodwiki/">Foodwiki CH</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.takeaway.com/be/foodwiki/">Foodwiki BE-NL</a>
+            </li>
+                      <li>
+              <a class="footer__anchor" href="https://www.takeaway.com/be-fr/foodwiki/">Foodwiki BE-FR</a>
+            </li>
+                  </ul>
+      </div>
+
+      <div class="footer__col">
+        <h3 class="footer__title">Folge uns</h3>
+
+        <ul class="social-media-list">
+                      <li class="social-media-list__item">
+              <a target="_blank" href="https://www.facebook.com/lieferando" class="social-media-list__item">
+                <div class="social-media-list__icon-container">
+                  <i class="social-media-list__icon social-media-list__icon--light icon-facebook"></i>
+                </div>
+                <span class="social-media-list__label">Facebook</span>
+              </a>
+            </li>
+                                <li class="social-media-list__item">
+              <a target="_blank" href="https://twitter.com/lieferando" class="social-media-list__item">
+                <div class="social-media-list__icon-container">
+                  <i class="social-media-list__icon social-media-list__icon--light icon-twitter"></i>
+                </div>
+                <span class="social-media-list__label">Twitter</span>
+              </a>
+            </li>
+                                <li class="social-media-list__item">
+              <a target="_blank" href="https://www.instagram.com/lieferando/" class="social-media-list__item">
+                <div class="social-media-list__icon-container">
+                  <i class="social-media-list__icon social-media-list__icon--light icon-instagram"></i>
+                </div>
+                <span class="social-media-list__label">Instagram</span>
+              </a>
+            </li>
+                                <li class="social-media-list__item">
+              <a target="_blank" href="https://www.youtube.com/user/lieferando" class="social-media-list__item">
+                <div class="social-media-list__icon-container">
+                  <i class="social-media-list__icon social-media-list__icon--light icon-youtube"></i>
+                </div>
+                <span class="social-media-list__label">YouTube</span>
+              </a>
+            </li>
+                                <li class="social-media-list__item">
+              <a target="_blank" href="https://www.lieferando.de/blog/" class="social-media-list__item">
+                <div class="social-media-list__icon-container">
+                  <i class="social-media-list__icon social-media-list__icon--light icon-blog"></i>
+                </div>
+                <span class="social-media-list__label">Blog</span>
+              </a>
+            </li>
+                                      </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+    <script type='text/javascript' src='https://www.lieferando.de/foodwiki/assets/javascripts/scripts.min.56e90b62.js'></script>
+
+
+      </body>
+</html>
